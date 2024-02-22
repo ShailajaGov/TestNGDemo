@@ -2,6 +2,7 @@ package listeners;
 
 import org.testng.annotations.Test;
 
+//Register comments
 public class Register {
 	
 	@Test(priority = 1,groups = {"smoke","sanity","register","All"})
